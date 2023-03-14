@@ -21,8 +21,7 @@
 }
 
 .body {
-  background-color: grey;
-  margin: 0;
+  background-color: aliceblue;
 }
 
 .container-fluid {
@@ -33,4 +32,14 @@
   margin: top 0;
 }
 
+.label {
+  text-align: center;
+}
+
+.compras {
+  text-align: left;
+  ;
+}
+.box{ text-align: left;justify-content: space-between; display: flex;}
 /*# sourceMappingURL=style.css.map */
+.box2{ display: flex;justify-content: space-between;}
