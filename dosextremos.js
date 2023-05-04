@@ -164,7 +164,7 @@ carrito.forEach((carritoTotal) => {
 
 
 function solicitarDatosdeContacto () { let DatosdeContacto= prompt ( "Ingrese Nombre y Apellido")
-let Mail = prompt ("Ingrese Mail")
+let Mail = prompt (" Ingrese Mail ")
 let telefono = prompt ("Ingrese numero de telefono")
 console.log ("Los datos para que te contactemos son : " + DatosdeContacto +" "+  Mail + " " + telefono )
 
@@ -175,7 +175,8 @@ solicitarDatosdeContacto();
 function saludar() {  
     alert( "Gracias por tu compra, en la brevedad te estaremos contactando para confirmar pedido y  plazos de entrega. ");
 }
-saludar();
+saludar()
+
 
 
  
