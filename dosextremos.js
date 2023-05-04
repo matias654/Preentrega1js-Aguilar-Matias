@@ -133,7 +133,7 @@ default:
                 precio= 8500 ;
                 console.log( "usted selecciono buzo");
                 break ;
-                case "campera" :
+                case "campera":
                     precio= 10500 ;
                     console.log( "usted selecciono campera");
                     break ;
